@@ -19,6 +19,9 @@ esto es un readme para aprender a usar git
 
  [Esto es un viculo](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+ :ok_hand:
+
+
 
 
 
